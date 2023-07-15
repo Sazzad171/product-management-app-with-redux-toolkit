@@ -1,0 +1,15 @@
+table,
+th,
+td {
+    border: 1px solid #000;
+    padding: 4px;
+}
+div {
+    margin-bottom: 8px;
+}
+.btn {
+    background-color: #ddd;
+    color: #000;
+    padding: 4px 8px;
+    text-decoration: none;
+}
